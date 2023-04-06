@@ -2,7 +2,6 @@ package com.relnc.springrest.entity;
 
 
 public class Student {
-
     private String firstName;
 
     private String lastName;
@@ -27,4 +26,5 @@ public class Student {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
+
 }
